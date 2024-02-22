@@ -1,6 +1,6 @@
 def greet(name: int) -> str:
-    text = f"Hello, {name} !"
-    return text
+    print("Hello, " + name + "!")
+    return 1231242451
 
 
-greet(123)
+greet("world")
